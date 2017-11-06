@@ -1,4 +1,4 @@
-package com.aziz.uts;
+package com.dwi.uts;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;

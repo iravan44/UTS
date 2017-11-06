@@ -1,4 +1,4 @@
-package com.aziz.uts;
+package com.dwi.uts;
 
 import org.junit.Test;
 

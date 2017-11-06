@@ -1,4 +1,4 @@
-package com.aziz.uts;
+package com.dwi.uts;
 
 /**
  * Created by cipowela on 06/11/17.
