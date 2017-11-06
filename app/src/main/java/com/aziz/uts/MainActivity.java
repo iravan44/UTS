@@ -28,13 +28,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void isiData() {
-        ContactModel model = new ContactModel("Rizal", "rizal@gmail.com","0897655566");
+        ContactModel model = new ContactModel("Aziz", "Aziz@gmail.com","085742123");
         contactModels.add(model);
 
-        model = new ContactModel("Rizal 5", "rizal5@gmail.com","0897655566");
+        model = new ContactModel("Aziz 7", "Aziz7@gmail.com","085742123");
         contactModels.add(model);
 
-        model = new ContactModel("Rizal 50", "rizal50@gmail.com","0897655566");
+        model = new ContactModel("Aziz27", "Aziz27@gmail.com","085742123");
         contactModels.add(model);
 
         adapter.notifyDataSetChanged();
