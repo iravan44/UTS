@@ -1,4 +1,4 @@
-package com.dwi.uts;
+package com.irvan.uts;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

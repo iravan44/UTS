@@ -1,4 +1,4 @@
-package com.dwi.uts;
+package com.irvan.uts;
 
 import org.junit.Test;
 

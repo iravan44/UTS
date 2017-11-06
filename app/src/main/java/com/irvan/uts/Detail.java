@@ -1,4 +1,4 @@
-package com.dwi.uts;
+package com.irvan.uts;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;

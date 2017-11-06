@@ -1,4 +1,4 @@
-package com.dwi.uts;
+package com.irvan.uts;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -31,10 +31,10 @@ public class MainActivity extends AppCompatActivity {
         ContactModel model = new ContactModel("Dwi", "dwi@gmail.com","087733810322");
         contactModels.add(model);
 
-        model = new ContactModel("Rosdan", "Rosdan@gmail.com","085345762186");
+        model = new ContactModel("Irvan", "Irvansipit10@gmail.com","085345762186");
         contactModels.add(model);
 
-        model = new ContactModel("Arwana", "Arwana@gmail.com","083762983614");
+        model = new ContactModel("Sipit", "Sipitirvan@gmail.com","083762983614");
         contactModels.add(model);
 
         adapter.notifyDataSetChanged();

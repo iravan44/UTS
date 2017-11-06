@@ -1,4 +1,4 @@
-package com.dwi.uts;
+package com.irvan.uts;
 
 /**
  * Created by cipowela on 06/11/17.
